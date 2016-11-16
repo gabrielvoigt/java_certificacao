@@ -1,0 +1,12 @@
+1- a
+2- c // Errado, quando existe package você deve declarar a package e a classe que será executada.
+3- b // Quando um array é chamado sem ter nenhum corpo, então será enviado uma exception.
+4- d // Como não tem arquivo manifest.mf, eu preciso chamar o jar no classpath, (java -cp)
+5- a // 
+
+--(colocar o jar na compilação)
+javac -cp programa.jar
+
+-- (compila o arquivo)
+javac . b/A.java
+

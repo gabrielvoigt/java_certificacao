@@ -1,0 +1,5 @@
+Main-Class: TesteJar
+
+Name: certificacaoJar/TesteJar.class
+
+Java-Bean: True
