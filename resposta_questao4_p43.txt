@@ -1,0 +1,14 @@
+Exercício - pacotes
+1- b // o certo é A. O erro está na compilação da classe A da package model que não é pública.
+2- a
+3- c
+4- c
+5- e
+6- b // resp. D, o package pode ter letra maiúscula.
+7- d // resp. B, só importamos os membros e não a classe A.
+8- a 
+9- b // resp. A, só foi importado os membros e não a classe A.
+
+p.43
+p.435
+
